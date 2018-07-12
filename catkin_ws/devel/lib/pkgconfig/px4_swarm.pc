@@ -1,0 +1,8 @@
+prefix=/home/sunho/catkin_ws/devel
+
+Name: px4_swarm
+Description: Description of px4_swarm
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/sunho/catkin_ws/devel/lib 
+Requires: 

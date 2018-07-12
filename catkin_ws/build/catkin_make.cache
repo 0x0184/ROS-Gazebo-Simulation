@@ -1,0 +1,2 @@
+Firmware:my_pkg:px4_swarm
+-DCATKIN_DEVEL_PREFIX=/home/sunho/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sunho/catkin_ws/install -G Unix Makefiles

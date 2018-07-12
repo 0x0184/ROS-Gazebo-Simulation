@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sunho/catkin_ws/src/px4_swarm/src/Client/TCPClient.cpp
+TCPClient.h
+/home/sunho/catkin_ws/src/px4_swarm/src/Client/TCPClient.h
+
+/home/sunho/catkin_ws/src/px4_swarm/src/Client/TCPClient.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+netdb.h
+-
+netdb.h
+-
+vector
+-
+

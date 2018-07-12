@@ -1,0 +1,2 @@
+/usr/bin/ar cq /home/sunho/catkin_ws/devel/lib/libsystemcmds__ver.a  CMakeFiles/systemcmds__ver.dir/ver.c.o
+/usr/bin/ranlib /home/sunho/catkin_ws/devel/lib/libsystemcmds__ver.a
