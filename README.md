@@ -21,6 +21,12 @@ $ rosrun mavros mavsafety disarm
 * Topic does not publish.
 	- rostopic echo TOPIC_NAME cannot be seen.
 
+## 2018-07-23
+```
+$ roslaunch px4 islab.launch
+$ roslaunch px4_swarm multi_uav_sim.launch
+```
+
 ## 2018-07-12
 ```
 $ rostopic echo /mavros2/state
